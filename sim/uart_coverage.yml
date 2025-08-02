@@ -1,0 +1,17 @@
+uart:
+  cover_percentage: 100.0
+  coverage: 4
+  size: 4
+  type: <class 'cocotb_coverage.coverage.CoverItem'>
+uart.tx_data:
+  at_least: 1
+  bins:_hits:
+    0: 1
+    85: 1
+    170: 1
+    255: 1
+  cover_percentage: 100.0
+  coverage: 4
+  size: 4
+  type: <class 'cocotb_coverage.coverage.CoverPoint'>
+  weight: 1
